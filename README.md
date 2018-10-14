@@ -23,4 +23,4 @@ $ npm start
 ```
 
 ### ScreenShot
-<img src="https://raw.githubusercontent.com/maxjing/WeatherVisualizer/master/images/screenshot1.jpg" width=500px style="display:inline">
+<img src="https://raw.githubusercontent.com/maxjing/WeatherVisualizer/master/images/screenshot1.jpg" width=700px style="display:inline">
