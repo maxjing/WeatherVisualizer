@@ -4,7 +4,7 @@
 
 A single web application that enables the user to search the Temperature/Pressure/Humidity of multiple cities with graph.
 
-# Tech
+### Tech
 WalkingGroup uses pure java for main function, and Retrofit to communicate with API which created by SFU specific for CMPT276 to work properly:
 
 * [React] 
@@ -23,4 +23,4 @@ $ npm start
 ```
 
 ### ScreenShot
-<img src="https://raw.githubusercontent.com/maxjing/WeatherVisualizer/master/images/screenshot1.jpg" width=300px style="display:inline">
+<img src="https://raw.githubusercontent.com/maxjing/WeatherVisualizer/master/images/screenshot1.jpg" width=500px style="display:inline">
