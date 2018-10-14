@@ -1,25 +1,26 @@
-# ReduxSimpleStarter
+# Weather Visualizer
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+<img src="https://raw.githubusercontent.com/maxjing/WeatherVisualizer/master/images/icon.jpg" width=100px style="display:inline">
 
-### Getting Started
+A single web application that enables the user to search the Temperature/Pressure/Humidity of multiple cities with graph.
 
-There are two methods for getting started with this repo.
+# Tech
+WalkingGroup uses pure java for main function, and Retrofit to communicate with API which created by SFU specific for CMPT276 to work properly:
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+* [React] 
+* [OpenWeatherAPI] 
+* [sparklines] - support the graph elements
 
+### Installation
+Weather Visualizer requires [Node.js](https://nodejs.org/) v4+ to run.
+
+Install the dependencies and devDependencies and start the server.
+
+```sh
+$ cd WeatherVisualizer
+$ npm install 
+$ npm start
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+### ScreenShot
+<img src="https://raw.githubusercontent.com/maxjing/WeatherVisualizer/master/images/screenshot1.jpg" width=300px style="display:inline">
