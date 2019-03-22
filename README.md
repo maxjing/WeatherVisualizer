@@ -4,7 +4,7 @@
 
 A single web application that enables the user to search the Temperature/Pressure/Humidity of multiple cities with graph.
 
-### Tech
+### Tech used in Weather Visulizer
 * [React] 
 * [OpenWeatherAPI] 
 * [sparklines] - support the graph elements
@@ -12,7 +12,7 @@ A single web application that enables the user to search the Temperature/Pressur
 ### Installation
 Weather Visualizer requires [Node.js](https://nodejs.org/) v4+ to run.
 
-Install the dependencies and devDependencies and start the server.
+Install the dependencies and devDependencies to start the server.
 
 ```sh
 $ cd WeatherVisualizer
